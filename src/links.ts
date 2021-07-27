@@ -1,0 +1,11 @@
+export const links: Link[] = [
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+  {url: "https://www.theindoorgardens.com/growing-romaine-lettuce-indoors/", imageUrl: "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_1200/https://www.theindoorgardens.com/wp-content/uploads/2021/07/wepik-2021626-125049.jpg", title: "test title"},
+]

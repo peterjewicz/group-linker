@@ -1,0 +1,4 @@
+.Block {
+  width: calc(33% - 8px);
+  padding: 0 4px;
+}
